@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="zQXSoz" name="Diastortion" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
+              pluginFormats="buildStandalone,buildVST3" maxBinaryFileSize="20971520">
+  <MAINGROUP id="ohUE2d" name="Diastortion">
+    <GROUP id="{49B2DB26-88CA-4C69-C2CA-3AEAD24C35E7}" name="front">
+      <FILE id="Gwb4CR" name="front.0376.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0376.png"/>
+      <FILE id="QteKrC" name="front.0377.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0377.png"/>
+      <FILE id="L9HBx1" name="front.0378.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0378.png"/>
+      <FILE id="VdqVrH" name="front.0379.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0379.png"/>
+      <FILE id="fU2dvr" name="front.0380.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0380.png"/>
+      <FILE id="NPECGW" name="front.0381.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0381.png"/>
+      <FILE id="tGblhn" name="front.0382.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0382.png"/>
+      <FILE id="d9Af97" name="front.0383.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0383.png"/>
+      <FILE id="kN3jWg" name="front.0384.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0384.png"/>
+      <FILE id="tduLGM" name="front.0385.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0385.png"/>
+      <FILE id="n7Kaav" name="front.0386.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0386.png"/>
+      <FILE id="OcX4Xg" name="front.0387.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0387.png"/>
+      <FILE id="nEL0UN" name="front.0388.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0388.png"/>
+      <FILE id="GraINd" name="front.0389.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0389.png"/>
+      <FILE id="RlKuy2" name="front.0390.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0390.png"/>
+      <FILE id="OF33N3" name="front.0391.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0391.png"/>
+      <FILE id="vjtqPK" name="front.0392.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0392.png"/>
+      <FILE id="htWsDR" name="front.0393.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0393.png"/>
+      <FILE id="tGlXaa" name="front.0394.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0394.png"/>
+      <FILE id="t76HhK" name="front.0395.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0395.png"/>
+      <FILE id="upCCQo" name="front.0396.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0396.png"/>
+      <FILE id="MlPNEH" name="front.0397.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0397.png"/>
+      <FILE id="S8VWlM" name="front.0398.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0398.png"/>
+      <FILE id="eOlfMz" name="front.0399.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0399.png"/>
+      <FILE id="l968fz" name="front.0400.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0400.png"/>
+      <FILE id="dpx2jA" name="front.0100.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0100.png"/>
+      <FILE id="SJhF0d" name="front.0101.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0101.png"/>
+      <FILE id="zVQEd5" name="front.0102.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0102.png"/>
+      <FILE id="WgGj8u" name="front.0103.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0103.png"/>
+      <FILE id="ZERj8l" name="front.0104.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0104.png"/>
+      <FILE id="ifjLnA" name="front.0105.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0105.png"/>
+      <FILE id="w0w7Ny" name="front.0106.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0106.png"/>
+      <FILE id="gy8vfH" name="front.0107.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0107.png"/>
+      <FILE id="ypsl1L" name="front.0108.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0108.png"/>
+      <FILE id="XvEydh" name="front.0109.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0109.png"/>
+      <FILE id="ko4Pek" name="front.0110.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0110.png"/>
+      <FILE id="Gzx5dI" name="front.0111.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0111.png"/>
+      <FILE id="bERgfa" name="front.0112.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0112.png"/>
+      <FILE id="YkyC8p" name="front.0113.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0113.png"/>
+      <FILE id="CDD9NT" name="front.0114.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0114.png"/>
+      <FILE id="dP2kvn" name="front.0115.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0115.png"/>
+      <FILE id="XyXf0R" name="front.0116.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0116.png"/>
+      <FILE id="vqT3wU" name="front.0117.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0117.png"/>
+      <FILE id="EUMsR0" name="front.0118.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0118.png"/>
+      <FILE id="yM9lLg" name="front.0119.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0119.png"/>
+      <FILE id="LBdw6v" name="front.0120.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0120.png"/>
+      <FILE id="GQQtFI" name="front.0121.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0121.png"/>
+      <FILE id="bUm4Ix" name="front.0122.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0122.png"/>
+      <FILE id="KwzMTA" name="front.0123.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0123.png"/>
+      <FILE id="NqTdPF" name="front.0124.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0124.png"/>
+      <FILE id="nxGDoq" name="front.0125.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0125.png"/>
+      <FILE id="wx1rZ5" name="front.0126.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0126.png"/>
+      <FILE id="EebxoS" name="front.0127.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0127.png"/>
+      <FILE id="DhJRow" name="front.0128.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0128.png"/>
+      <FILE id="dYjEt8" name="front.0129.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0129.png"/>
+      <FILE id="wt9D9R" name="front.0130.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0130.png"/>
+      <FILE id="YdqFb2" name="front.0131.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0131.png"/>
+      <FILE id="lFCBdG" name="front.0132.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0132.png"/>
+      <FILE id="giPZ1H" name="front.0133.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0133.png"/>
+      <FILE id="F2NsIY" name="front.0134.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0134.png"/>
+      <FILE id="GbFLLw" name="front.0135.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0135.png"/>
+      <FILE id="eblUai" name="front.0136.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0136.png"/>
+      <FILE id="EAK6Xl" name="front.0137.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0137.png"/>
+      <FILE id="lsH44m" name="front.0138.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0138.png"/>
+      <FILE id="UTXdnB" name="front.0139.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0139.png"/>
+      <FILE id="OOUr1f" name="front.0140.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0140.png"/>
+      <FILE id="jF16mm" name="front.0141.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0141.png"/>
+      <FILE id="O3aNIA" name="front.0142.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0142.png"/>
+      <FILE id="k978Tq" name="front.0143.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0143.png"/>
+      <FILE id="VvCYZp" name="front.0144.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0144.png"/>
+      <FILE id="QqPO5c" name="front.0145.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0145.png"/>
+      <FILE id="NB9U00" name="front.0146.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0146.png"/>
+      <FILE id="P475d7" name="front.0147.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0147.png"/>
+      <FILE id="zg49Ez" name="front.0148.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0148.png"/>
+      <FILE id="plZNCQ" name="front.0149.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0149.png"/>
+      <FILE id="awmS8f" name="front.0150.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0150.png"/>
+      <FILE id="GvsBGQ" name="front.0151.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0151.png"/>
+      <FILE id="bvzMAv" name="front.0152.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0152.png"/>
+      <FILE id="IVzM1Q" name="front.0153.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0153.png"/>
+      <FILE id="kvs6W4" name="front.0154.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0154.png"/>
+      <FILE id="p7cSjN" name="front.0155.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0155.png"/>
+      <FILE id="GosP7d" name="front.0156.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0156.png"/>
+      <FILE id="YXNwSj" name="front.0157.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0157.png"/>
+      <FILE id="cVCV0T" name="front.0158.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0158.png"/>
+      <FILE id="NDquII" name="front.0159.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0159.png"/>
+      <FILE id="S20ePK" name="front.0160.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0160.png"/>
+      <FILE id="Of0foN" name="front.0161.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0161.png"/>
+      <FILE id="VkFOgr" name="front.0162.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0162.png"/>
+      <FILE id="TZsZry" name="front.0163.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0163.png"/>
+      <FILE id="eYTEnt" name="front.0164.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0164.png"/>
+      <FILE id="SaZEtH" name="front.0165.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0165.png"/>
+      <FILE id="SCQQuL" name="front.0166.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0166.png"/>
+      <FILE id="cj4DcG" name="front.0167.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0167.png"/>
+      <FILE id="MgjvZL" name="front.0168.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0168.png"/>
+      <FILE id="dBeO1L" name="front.0169.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0169.png"/>
+      <FILE id="EbIt64" name="front.0170.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0170.png"/>
+      <FILE id="xzbzQo" name="front.0171.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0171.png"/>
+      <FILE id="yDbpOX" name="front.0172.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0172.png"/>
+      <FILE id="ZTrJJa" name="front.0173.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0173.png"/>
+      <FILE id="DagXKE" name="front.0174.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0174.png"/>
+      <FILE id="h2XYk4" name="front.0175.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0175.png"/>
+      <FILE id="vFfopj" name="front.0176.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0176.png"/>
+      <FILE id="nDnIWl" name="front.0177.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0177.png"/>
+      <FILE id="sCGLgK" name="front.0178.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0178.png"/>
+      <FILE id="bdHZ7D" name="front.0179.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0179.png"/>
+      <FILE id="v2jESV" name="front.0180.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0180.png"/>
+      <FILE id="GqBmpi" name="front.0181.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0181.png"/>
+      <FILE id="E8I4IB" name="front.0182.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0182.png"/>
+      <FILE id="KJhnth" name="front.0183.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0183.png"/>
+      <FILE id="vmnTkx" name="front.0184.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0184.png"/>
+      <FILE id="XaIi7r" name="front.0185.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0185.png"/>
+      <FILE id="AYiPOC" name="front.0186.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0186.png"/>
+      <FILE id="iW5Fhm" name="front.0187.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0187.png"/>
+      <FILE id="Rfo5FT" name="front.0188.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0188.png"/>
+      <FILE id="cWC6gU" name="front.0189.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0189.png"/>
+      <FILE id="sWDTIl" name="front.0190.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0190.png"/>
+      <FILE id="YcYHgK" name="front.0191.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0191.png"/>
+      <FILE id="RWZqgr" name="front.0192.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0192.png"/>
+      <FILE id="yoPH4D" name="front.0193.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0193.png"/>
+      <FILE id="rDlvOl" name="front.0194.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0194.png"/>
+      <FILE id="NiY1my" name="front.0195.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0195.png"/>
+      <FILE id="WwXyXT" name="front.0196.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0196.png"/>
+      <FILE id="U9SyZK" name="front.0197.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0197.png"/>
+      <FILE id="PgJ7xS" name="front.0198.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0198.png"/>
+      <FILE id="jzggRO" name="front.0199.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0199.png"/>
+      <FILE id="AwgOSO" name="front.0200.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0200.png"/>
+      <FILE id="Iv6JSa" name="front.0201.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0201.png"/>
+      <FILE id="Fn8IVy" name="front.0202.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0202.png"/>
+      <FILE id="PREjqH" name="front.0203.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0203.png"/>
+      <FILE id="QYIC9y" name="front.0204.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0204.png"/>
+      <FILE id="ZuHtiQ" name="front.0205.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0205.png"/>
+      <FILE id="dOg3Tq" name="front.0206.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0206.png"/>
+      <FILE id="tvkRex" name="front.0207.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0207.png"/>
+      <FILE id="PpPd2n" name="front.0208.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0208.png"/>
+      <FILE id="gElNI6" name="front.0209.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0209.png"/>
+      <FILE id="O5VgeJ" name="front.0210.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0210.png"/>
+      <FILE id="UrKcEJ" name="front.0211.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0211.png"/>
+      <FILE id="xz9bR2" name="front.0212.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0212.png"/>
+      <FILE id="Nh8vGI" name="front.0213.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0213.png"/>
+      <FILE id="wePyLs" name="front.0214.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0214.png"/>
+      <FILE id="N7T3sT" name="front.0215.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0215.png"/>
+      <FILE id="GKvmFw" name="front.0216.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0216.png"/>
+      <FILE id="kHkVXv" name="front.0217.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0217.png"/>
+      <FILE id="f5t5ED" name="front.0218.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0218.png"/>
+      <FILE id="OBKqoH" name="front.0219.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0219.png"/>
+      <FILE id="gCuk16" name="front.0220.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0220.png"/>
+      <FILE id="MtP2f9" name="front.0221.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0221.png"/>
+      <FILE id="rsc8l0" name="front.0222.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0222.png"/>
+      <FILE id="s4zL16" name="front.0223.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0223.png"/>
+      <FILE id="dCAi3y" name="front.0224.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0224.png"/>
+      <FILE id="dBcqwN" name="front.0225.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0225.png"/>
+      <FILE id="W4x3cW" name="front.0226.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0226.png"/>
+      <FILE id="PJ8Jzv" name="front.0227.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0227.png"/>
+      <FILE id="esCEZ8" name="front.0228.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0228.png"/>
+      <FILE id="znZnmS" name="front.0229.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0229.png"/>
+      <FILE id="ErDPsp" name="front.0230.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0230.png"/>
+      <FILE id="Dr14pe" name="front.0231.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0231.png"/>
+      <FILE id="X9aMUN" name="front.0232.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0232.png"/>
+      <FILE id="u5zZs8" name="front.0233.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0233.png"/>
+      <FILE id="m05sxS" name="front.0234.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0234.png"/>
+      <FILE id="ZSBUCT" name="front.0235.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0235.png"/>
+      <FILE id="DBLvIV" name="front.0236.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0236.png"/>
+      <FILE id="EvEPHS" name="front.0237.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0237.png"/>
+      <FILE id="ttBJnx" name="front.0238.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0238.png"/>
+      <FILE id="F8BTPo" name="front.0239.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0239.png"/>
+      <FILE id="nEiveh" name="front.0240.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0240.png"/>
+      <FILE id="lDn3fD" name="front.0241.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0241.png"/>
+      <FILE id="ubYO3d" name="front.0242.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0242.png"/>
+      <FILE id="onjrRT" name="front.0243.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0243.png"/>
+      <FILE id="bvHs1q" name="front.0244.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0244.png"/>
+      <FILE id="hGoY78" name="front.0245.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0245.png"/>
+      <FILE id="D9elhM" name="front.0246.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0246.png"/>
+      <FILE id="I7Wvcu" name="front.0247.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0247.png"/>
+      <FILE id="YQ9aic" name="front.0248.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0248.png"/>
+      <FILE id="G4bzgS" name="front.0249.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0249.png"/>
+      <FILE id="GeKF76" name="front.0250.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0250.png"/>
+      <FILE id="HvocYz" name="front.0251.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0251.png"/>
+      <FILE id="v7fw2X" name="front.0252.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0252.png"/>
+      <FILE id="JSaUm4" name="front.0253.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0253.png"/>
+      <FILE id="zshuhO" name="front.0254.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0254.png"/>
+      <FILE id="eM5BVf" name="front.0255.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0255.png"/>
+      <FILE id="Y2Y3LM" name="front.0256.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0256.png"/>
+      <FILE id="JMhXxL" name="front.0257.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0257.png"/>
+      <FILE id="hzCImf" name="front.0258.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0258.png"/>
+      <FILE id="DbdPvh" name="front.0259.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0259.png"/>
+      <FILE id="PaLeb4" name="front.0260.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0260.png"/>
+      <FILE id="rsXU8n" name="front.0261.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0261.png"/>
+      <FILE id="hatvtA" name="front.0262.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0262.png"/>
+      <FILE id="eChHd9" name="front.0263.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0263.png"/>
+      <FILE id="XVrRCJ" name="front.0264.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0264.png"/>
+      <FILE id="vYO6Nf" name="front.0265.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0265.png"/>
+      <FILE id="Ol0JgH" name="front.0266.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0266.png"/>
+      <FILE id="IySEXx" name="front.0267.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0267.png"/>
+      <FILE id="mM9ynJ" name="front.0268.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0268.png"/>
+      <FILE id="iwL7yA" name="front.0269.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0269.png"/>
+      <FILE id="Q5wzGl" name="front.0270.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0270.png"/>
+      <FILE id="EDD7aU" name="front.0271.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0271.png"/>
+      <FILE id="xLUMQa" name="front.0272.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0272.png"/>
+      <FILE id="IJ1LRb" name="front.0273.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0273.png"/>
+      <FILE id="vRU0Rh" name="front.0274.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0274.png"/>
+      <FILE id="Y6C4AY" name="front.0275.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0275.png"/>
+      <FILE id="mz7sSp" name="front.0276.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0276.png"/>
+      <FILE id="eu9UPL" name="front.0277.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0277.png"/>
+      <FILE id="Jt6iRh" name="front.0278.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0278.png"/>
+      <FILE id="YL4FZx" name="front.0279.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0279.png"/>
+      <FILE id="Fn78co" name="front.0280.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0280.png"/>
+      <FILE id="dToCkT" name="front.0281.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0281.png"/>
+      <FILE id="kx4zYd" name="front.0282.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0282.png"/>
+      <FILE id="pB5YBQ" name="front.0283.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0283.png"/>
+      <FILE id="oVi9mi" name="front.0284.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0284.png"/>
+      <FILE id="tmh3LN" name="front.0285.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0285.png"/>
+      <FILE id="vuM31x" name="front.0286.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0286.png"/>
+      <FILE id="jJrPmX" name="front.0287.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0287.png"/>
+      <FILE id="UdYoaC" name="front.0288.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0288.png"/>
+      <FILE id="eIAibd" name="front.0289.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0289.png"/>
+      <FILE id="YWxycv" name="front.0290.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0290.png"/>
+      <FILE id="qjjo45" name="front.0291.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0291.png"/>
+      <FILE id="UlehoY" name="front.0292.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0292.png"/>
+      <FILE id="jMvlvs" name="front.0293.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0293.png"/>
+      <FILE id="DY7DDb" name="front.0294.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0294.png"/>
+      <FILE id="rTmbqf" name="front.0295.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0295.png"/>
+      <FILE id="kk5NFJ" name="front.0296.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0296.png"/>
+      <FILE id="Gl3D9I" name="front.0297.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0297.png"/>
+      <FILE id="C5prqL" name="front.0298.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0298.png"/>
+      <FILE id="Y3Fnhl" name="front.0299.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0299.png"/>
+      <FILE id="TYPJ62" name="front.0300.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0300.png"/>
+      <FILE id="T6SbVL" name="front.0301.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0301.png"/>
+      <FILE id="TVmY63" name="front.0302.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0302.png"/>
+      <FILE id="H5GRYF" name="front.0303.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0303.png"/>
+      <FILE id="Z2LWe2" name="front.0304.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0304.png"/>
+      <FILE id="MU9ebZ" name="front.0305.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0305.png"/>
+      <FILE id="U3AE7n" name="front.0306.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0306.png"/>
+      <FILE id="PxoNog" name="front.0307.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0307.png"/>
+      <FILE id="BypPOe" name="front.0308.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0308.png"/>
+      <FILE id="Ccjm43" name="front.0309.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0309.png"/>
+      <FILE id="RmbhZD" name="front.0310.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0310.png"/>
+      <FILE id="zRvGmP" name="front.0311.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0311.png"/>
+      <FILE id="YubJGN" name="front.0312.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0312.png"/>
+      <FILE id="vLJwFs" name="front.0313.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0313.png"/>
+      <FILE id="XNDlij" name="front.0314.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0314.png"/>
+      <FILE id="qIMPgJ" name="front.0315.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0315.png"/>
+      <FILE id="UzVKTn" name="front.0316.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0316.png"/>
+      <FILE id="fUjFcI" name="front.0317.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0317.png"/>
+      <FILE id="YttF8Y" name="front.0318.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0318.png"/>
+      <FILE id="cHh75C" name="front.0319.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0319.png"/>
+      <FILE id="NVcDyu" name="front.0320.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0320.png"/>
+      <FILE id="lYdlfA" name="front.0321.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0321.png"/>
+      <FILE id="U2cGL7" name="front.0322.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0322.png"/>
+      <FILE id="oIkNB7" name="front.0323.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0323.png"/>
+      <FILE id="xKZjFD" name="front.0324.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0324.png"/>
+      <FILE id="cyrKAo" name="front.0325.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0325.png"/>
+      <FILE id="PFoRC6" name="front.0326.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0326.png"/>
+      <FILE id="PoiXmd" name="front.0327.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0327.png"/>
+      <FILE id="J0Xmeu" name="front.0328.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0328.png"/>
+      <FILE id="UJ6RZ6" name="front.0329.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0329.png"/>
+      <FILE id="HMlJbP" name="front.0330.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0330.png"/>
+      <FILE id="zjFy10" name="front.0331.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0331.png"/>
+      <FILE id="A6myw8" name="front.0332.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0332.png"/>
+      <FILE id="qpY5E1" name="front.0333.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0333.png"/>
+      <FILE id="u4KDhL" name="front.0334.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0334.png"/>
+      <FILE id="VjsELL" name="front.0335.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0335.png"/>
+      <FILE id="ue6hKu" name="front.0336.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0336.png"/>
+      <FILE id="iiI9LB" name="front.0337.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0337.png"/>
+      <FILE id="ngOUtH" name="front.0338.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0338.png"/>
+      <FILE id="pzQYGK" name="front.0339.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0339.png"/>
+      <FILE id="bwPVOa" name="front.0340.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0340.png"/>
+      <FILE id="SpxFmX" name="front.0341.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0341.png"/>
+      <FILE id="EEbcV7" name="front.0342.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0342.png"/>
+      <FILE id="s3H6De" name="front.0343.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0343.png"/>
+      <FILE id="Sc3ET4" name="front.0344.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0344.png"/>
+      <FILE id="k9LXrP" name="front.0345.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0345.png"/>
+      <FILE id="yGyqRE" name="front.0346.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0346.png"/>
+      <FILE id="SKrNRX" name="front.0347.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0347.png"/>
+      <FILE id="KXczxi" name="front.0348.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0348.png"/>
+      <FILE id="OqwsgB" name="front.0349.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0349.png"/>
+      <FILE id="xIeO4j" name="front.0350.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0350.png"/>
+      <FILE id="zOUm51" name="front.0351.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0351.png"/>
+      <FILE id="g0mdAc" name="front.0352.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0352.png"/>
+      <FILE id="FhjUxM" name="front.0353.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0353.png"/>
+      <FILE id="o4SDI0" name="front.0354.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0354.png"/>
+      <FILE id="JBIBgD" name="front.0355.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0355.png"/>
+      <FILE id="w1RhTB" name="front.0356.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0356.png"/>
+      <FILE id="NnN0jU" name="front.0357.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0357.png"/>
+      <FILE id="ldNI9n" name="front.0358.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0358.png"/>
+      <FILE id="gz4Yja" name="front.0359.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0359.png"/>
+      <FILE id="bJkPZ6" name="front.0360.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0360.png"/>
+      <FILE id="Q0grQ6" name="front.0361.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0361.png"/>
+      <FILE id="qtogiy" name="front.0362.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0362.png"/>
+      <FILE id="jNe4LJ" name="front.0363.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0363.png"/>
+      <FILE id="MeKhyj" name="front.0364.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0364.png"/>
+      <FILE id="fgck3T" name="front.0365.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0365.png"/>
+      <FILE id="I9uusU" name="front.0366.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0366.png"/>
+      <FILE id="QUD6dl" name="front.0367.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0367.png"/>
+      <FILE id="I0k4VK" name="front.0368.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0368.png"/>
+      <FILE id="s0IN3e" name="front.0369.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0369.png"/>
+      <FILE id="dFNMjc" name="front.0370.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0370.png"/>
+      <FILE id="ZWjyd7" name="front.0371.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0371.png"/>
+      <FILE id="IDajzG" name="front.0372.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0372.png"/>
+      <FILE id="tR1ltw" name="front.0373.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0373.png"/>
+      <FILE id="DPzP5i" name="front.0374.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0374.png"/>
+      <FILE id="gFTXS0" name="front.0375.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0375.png"/>
+    </GROUP>
+    <GROUP id="{806C0E8A-2CB2-F0B3-4B60-12D3F32B5FD5}" name="Resources">
+      <FILE id="cOK3WE" name="background.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/back/background.png"/>
+    </GROUP>
+    <GROUP id="{7D19BB46-CAD7-405C-8770-103B43FB3C3A}" name="Source">
+      <FILE id="TnWJj5" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="NyTj0x" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="t6mM3x" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="jxc5xC" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <VS2022 targetFolder="Builds/VisualStudio2022">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="Diastortion"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="Diastortion"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../../../program files/JUCE/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../../../program files/JUCE/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../../../program files/JUCE/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../../../program files/JUCE/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../../../program files/JUCE/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../../../program files/JUCE/JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../../../program files/JUCE/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../../../program files/JUCE/JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../../../../program files/JUCE/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../../../program files/JUCE/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../../../program files/JUCE/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../../../program files/JUCE/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../../../program files/JUCE/JUCE/modules"/>
+      </MODULEPATHS>
+    </VS2022>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+</JUCERPROJECT>
