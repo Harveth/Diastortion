@@ -10,6 +10,7 @@
 
 #include <JuceHeader.h>
 #include "PluginProcessor.h"
+#include "Knob1.h"
 
 //==============================================================================
 /**
@@ -29,6 +30,8 @@ private:
     // This reference is provided as a quick way for your editor to
     // access the processor object that created it.
     DiastortionAudioProcessor& audioProcessor;
+    Knob1 knob1;
+    
 
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (DiastortionAudioProcessorEditor)
 };

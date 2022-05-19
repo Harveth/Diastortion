@@ -308,9 +308,16 @@
       <FILE id="gFTXS0" name="front.0375.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/post-comp/front.0375.png"/>
     </GROUP>
     <GROUP id="{806C0E8A-2CB2-F0B3-4B60-12D3F32B5FD5}" name="Resources">
+      <FILE id="to1Hkq" name="knobRelease.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/Knob1_2/knobRelease.png"/>
       <FILE id="cOK3WE" name="background.png" compile="0" resource="1" file="../../../../projects/Pluginz/Diaa-stortion/Prototypes/renders/back/background.png"/>
     </GROUP>
     <GROUP id="{7D19BB46-CAD7-405C-8770-103B43FB3C3A}" name="Source">
+      <FILE id="TiAUQc" name="Knob1LookAndFeel.cpp" compile="1" resource="0"
+            file="Source/Knob1LookAndFeel.cpp"/>
+      <FILE id="OX6EWw" name="Knob1LookAndFeel.h" compile="0" resource="0"
+            file="Source/Knob1LookAndFeel.h"/>
+      <FILE id="TqAcpw" name="Knob1.cpp" compile="1" resource="0" file="Source/Knob1.cpp"/>
+      <FILE id="IXd388" name="Knob1.h" compile="0" resource="0" file="Source/Knob1.h"/>
       <FILE id="TnWJj5" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
       <FILE id="NyTj0x" name="PluginProcessor.h" compile="0" resource="0"

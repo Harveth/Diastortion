@@ -911,11 +911,14 @@ namespace BinaryData
     extern const char*   front_0375_png;
     const int            front_0375_pngSize = 214542;
 
+    extern const char*   knobRelease_png;
+    const int            knobRelease_pngSize = 2663206;
+
     extern const char*   background_png;
     const int            background_pngSize = 298107;
 
     // Number of elements in the namedResourceList and originalFileNames arrays.
-    const int namedResourceListSize = 302;
+    const int namedResourceListSize = 303;
 
     // Points to the start of a list of resource names.
     extern const char* namedResourceList[];

@@ -137,6 +137,8 @@
     </Bscmake>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Source\Knob1LookAndFeel.cpp"/>
+    <ClCompile Include="..\..\Source\Knob1.cpp"/>
     <ClCompile Include="..\..\Source\PluginProcessor.cpp"/>
     <ClCompile Include="..\..\Source\PluginEditor.cpp"/>
     <ClCompile Include="..\..\..\..\..\..\program files\JUCE\JUCE\modules\juce_audio_basics\buffers\juce_AudioChannelSet.cpp">
@@ -2205,6 +2207,7 @@
     <ClCompile Include="..\..\JuceLibraryCode\BinaryData9.cpp"/>
     <ClCompile Include="..\..\JuceLibraryCode\BinaryData10.cpp"/>
     <ClCompile Include="..\..\JuceLibraryCode\BinaryData11.cpp"/>
+    <ClCompile Include="..\..\JuceLibraryCode\BinaryData12.cpp"/>
     <ClCompile Include="..\..\JuceLibraryCode\include_juce_audio_basics.cpp"/>
     <ClCompile Include="..\..\JuceLibraryCode\include_juce_audio_devices.cpp"/>
     <ClCompile Include="..\..\JuceLibraryCode\include_juce_audio_formats.cpp"/>
@@ -2222,6 +2225,8 @@
     <ClCompile Include="..\..\JuceLibraryCode\include_juce_gui_extra.cpp"/>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\Source\Knob1LookAndFeel.h"/>
+    <ClInclude Include="..\..\Source\Knob1.h"/>
     <ClInclude Include="..\..\Source\PluginProcessor.h"/>
     <ClInclude Include="..\..\Source\PluginEditor.h"/>
     <ClInclude Include="..\..\..\..\..\..\program files\JUCE\JUCE\modules\juce_audio_basics\audio_play_head\juce_AudioPlayHead.h"/>
@@ -3380,6 +3385,7 @@
     <None Include="..\..\..\..\..\..\projects\Pluginz\Diaa-stortion\Prototypes\renders\post-comp\front.0373.png"/>
     <None Include="..\..\..\..\..\..\projects\Pluginz\Diaa-stortion\Prototypes\renders\post-comp\front.0374.png"/>
     <None Include="..\..\..\..\..\..\projects\Pluginz\Diaa-stortion\Prototypes\renders\post-comp\front.0375.png"/>
+    <None Include="..\..\..\..\..\..\projects\Pluginz\Diaa-stortion\Prototypes\renders\Knob1_2\knobRelease.png"/>
     <None Include="..\..\..\..\..\..\projects\Pluginz\Diaa-stortion\Prototypes\renders\back\background.png"/>
     <None Include="..\..\..\..\..\..\program files\JUCE\JUCE\modules\juce_audio_devices\native\oboe\CMakeLists.txt"/>
     <None Include="..\..\..\..\..\..\program files\JUCE\JUCE\modules\juce_audio_devices\native\oboe\README.md"/>

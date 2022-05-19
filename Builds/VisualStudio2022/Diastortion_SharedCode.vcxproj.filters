@@ -475,6 +475,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Source\Knob1LookAndFeel.cpp">
+      <Filter>Diastortion\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Knob1.cpp">
+      <Filter>Diastortion\Source</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\PluginProcessor.cpp">
       <Filter>Diastortion\Source</Filter>
     </ClCompile>
@@ -2698,6 +2704,9 @@
     <ClCompile Include="..\..\JuceLibraryCode\BinaryData11.cpp">
       <Filter>JUCE Library Code</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\JuceLibraryCode\BinaryData12.cpp">
+      <Filter>JUCE Library Code</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\JuceLibraryCode\include_juce_audio_basics.cpp">
       <Filter>JUCE Library Code</Filter>
     </ClCompile>
@@ -2739,6 +2748,12 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\Source\Knob1LookAndFeel.h">
+      <Filter>Diastortion\Source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Knob1.h">
+      <Filter>Diastortion\Source</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\PluginProcessor.h">
       <Filter>Diastortion\Source</Filter>
     </ClInclude>
@@ -6208,6 +6223,9 @@
     </None>
     <None Include="..\..\..\..\..\..\projects\Pluginz\Diaa-stortion\Prototypes\renders\post-comp\front.0375.png">
       <Filter>Diastortion\front</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\projects\Pluginz\Diaa-stortion\Prototypes\renders\Knob1_2\knobRelease.png">
+      <Filter>Diastortion\Resources</Filter>
     </None>
     <None Include="..\..\..\..\..\..\projects\Pluginz\Diaa-stortion\Prototypes\renders\back\background.png">
       <Filter>Diastortion\Resources</Filter>
