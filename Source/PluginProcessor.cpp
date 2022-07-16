@@ -19,9 +19,10 @@ DiastortionAudioProcessor::DiastortionAudioProcessor()
                       #endif
                        .withOutput ("Output", juce::AudioChannelSet::stereo(), true)
                      #endif
-                       )
+                       ), apvts(*this, nullptr, "Paramaters", createParameters())
 #endif
 {
+    apvts.state = ValueTree("savedParama");
 }
 
 DiastortionAudioProcessor::~DiastortionAudioProcessor()
@@ -150,11 +151,36 @@ void DiastortionAudioProcessor::processBlock (juce::AudioBuffer<float>& buffer, 
     // the samples and the outer loop is handling the channels.
     // Alternatively, you can process the samples with the channels
     // interleaved by keeping the same state.
+
+    auto driveValue = apvts.getRawParameterValue("SLIDER_DRIVE");
+    float driveVal = *driveValue;
+    auto mixValue = apvts.getRawParameterValue("SLIDER_MIX");
+    float mixVal = *mixValue;
+
     for (int channel = 0; channel < totalNumInputChannels; ++channel)
     {
         auto* channelData = buffer.getWritePointer (channel);
-
+        
         // ..do something to the data...
+
+        for (auto sample = 0; sample < buffer.getNumSamples(); sample++) {
+
+            auto in = channelData[sample];
+            float out;
+
+           /* float threshold = 1.0f;
+            if (in > threshold)
+                out = threshold;
+            else if (in < -threshold)
+                out = -threshold;
+            else
+                out = in;*/
+
+            out = fabsf(in);
+
+            channelData[sample] = in * (1.0f - mixVal) + out * mixVal;
+
+        }
     }
 }
 
@@ -175,12 +201,32 @@ void DiastortionAudioProcessor::getStateInformation (juce::MemoryBlock& destData
     // You should use this method to store your parameters in the memory block.
     // You could do that either as raw data, or use the XML or ValueTree classes
     // as intermediaries to make it easy to save and load complex data.
+    std::unique_ptr<XmlElement> xml(apvts.state.createXml());
+    copyXmlToBinary(*xml, destData);
 }
 
 void DiastortionAudioProcessor::setStateInformation (const void* data, int sizeInBytes)
 {
     // You should use this method to restore your parameters from this memory block,
     // whose contents will have been created by the getStateInformation() call.
+    std::unique_ptr<XmlElement> theParams(getXmlFromBinary(data, sizeInBytes));
+
+    if (theParams != nullptr) {
+        if (theParams->hasTagName(apvts.state.getType())); {
+            apvts.state = ValueTree::fromXml(*theParams);
+        }
+    }
+}
+
+juce::AudioProcessorValueTreeState::ParameterLayout DiastortionAudioProcessor::createParameters()
+{
+    std::vector<std::unique_ptr<RangedAudioParameter>> parameters;
+
+    parameters.push_back(std::make_unique<AudioParameterFloat>("SLIDER_DRIVE", "drive", 0.0f, 1.0f, 1.0f));
+
+    parameters.push_back(std::make_unique<AudioParameterFloat>("SLIDER_MIX", "mix", 0.0f, 1.0f, 1.0f));
+
+    return { parameters.begin(), parameters.end() };
 }
 
 //==============================================================================
@@ -189,3 +235,4 @@ juce::AudioProcessor* JUCE_CALLTYPE createPluginFilter()
 {
     return new DiastortionAudioProcessor();
 }
+
